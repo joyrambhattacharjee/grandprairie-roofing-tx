@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grandeprairieroofingtx.com/sitemap.xml
