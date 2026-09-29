@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://grandeprairieroofingtx.com/sitemap.xml
+Sitemap: https://grandprairieroofingtx.com/sitemap.xml
